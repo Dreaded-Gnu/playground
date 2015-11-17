@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="staggered" renderorder="right-down" width="30" height="60" tilewidth="64" tileheight="32" staggeraxis="y" staggerindex="odd" nextobjectid="1">
+ <tileset firstgid="1" source="E:/Programme x86/Tiled/examples/isometric_grass_and_water.tsx"/>
+ <layer name="Ground" width="30" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzF121rhDAMB3AVvUd1d7sD/f6fdBYaCCGxSZt2L/6MMtlv6YM1fdd1PZP5yBbzEJ4pzYASxi9khrwbuAPjgg2/H43RmDfGrOFy9k/CruXOgnup7HLrG7JmupwtmU/BrFUvuL9knbXuFGPZz9jE+2slz0nm98j9yGKsl7pga90RzQ+u32qGXMmYziGe2yn+jQWNl0S9ksvtuzdxX3F+IRsZS7bWhHfZBZnS+w2n1A35xOdwvdJ75sy2mLDe2IR6d2TsCvdudLn9PEeL8+h7FtxSM7W+OzJ6ozslbOn+wqGu5twsJya4TyZSrVp3U9hXJp/u/PssdV5z7144X9L3Weq85t6D9P/WmuDm3r1Qr3WepbuhRb2p81uz3lz7rF6rq/mOCJlivV49zqB04U726nNG8pPOF77javVXA+MOjMv1OR629I6r6XK2pr+q4Wr6q1brS/sr71q1/ZV3vdr+yrNeS3/lWa+lv/Kq19pfeZ0ja3/l4eb0Vy3dEOivWpqw3h7ra3U99nOu2crl+qvaptRftXC5/qrEXOM4dV65/qqmC+fV4z7C85syweX6q9J11dhcf1VSq8b0OL+cm2uXmlbXWu+Za4mlXi+z/6daPfZSaf4AXsMmDg==
+  </data>
+ </layer>
+</map>
